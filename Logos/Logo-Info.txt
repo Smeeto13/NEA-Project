@@ -1,0 +1,10 @@
+font name: Mogra-Regular
+font link: https://fonts.google.com/specimen/Mogra
+font author: Lipi Raval
+font author site: http://cargocollective.com/lipi
+
+
+icon designer: cchee
+icon designer link: /ccheee
+
+Logo remixed by Sophie Smeeton
